@@ -1,0 +1,1 @@
+This is part of step 6 of theOdinProject Git basics
